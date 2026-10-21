@@ -1,4 +1,19 @@
-<p align="left">Hello World!!</p>
+<p align="left">Hi, I'm Roman! 👋
+
+I'm from Austria and currently learning web development at Developer Akademie.
+
+I'm working with HTML, CSS and JavaScript. I enjoy building websites, solving problems and learning new things along the way.
+
+I'm looking for a junior developer or trainee opportunity where I can work on real projects, learn from experienced developers and keep improving my skills.
+
+## My Projects
+
+- **[Join](https://github.com/RomanbuchDev/Join)** – A task management web application I'm developing together with a team. Still in progress.
+- **[Bestell-App](https://github.com/RomanbuchDev/Bestell-App)** – A food ordering application with an interactive shopping cart.
+
+## Technologies I'm Learning
+
+HTML · CSS · JavaScript · Git · GitHub</p>
 
 ###
 
